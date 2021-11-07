@@ -1,0 +1,9 @@
+.logoSize{
+    width: 50%;
+}
+
+.logoAlign {
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}

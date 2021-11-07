@@ -1,0 +1,6 @@
+.banner_size{
+    width: 60%;
+    min-width: 450px;
+    display: flex;
+    align-self: center;
+}
